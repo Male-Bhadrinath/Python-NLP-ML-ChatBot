@@ -215,14 +215,7 @@ This project demonstrates:
 
 ---
 
-# 👨‍💻 Author
 
-**Navadeep**
-BSc Artificial Intelligence & Machine Learning Student
-
-Passionate about **AI, Machine Learning, NLP, and Python development.**
-
----
 
 # ⭐ Support
 
